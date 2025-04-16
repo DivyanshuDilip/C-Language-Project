@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Project.AmazonPlatform</StartupObject>
+    <StartupObject>Project.Inheritence</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>

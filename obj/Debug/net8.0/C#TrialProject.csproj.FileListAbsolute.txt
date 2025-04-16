@@ -13,7 +13,6 @@
 /home/knoldus/Desktop/C#TrialProject/Project/bin/Debug/net8.0/selenium-manager/linux/selenium-manager
 /home/knoldus/Desktop/C#TrialProject/Project/bin/Debug/net8.0/selenium-manager/macos/selenium-manager
 /home/knoldus/Desktop/C#TrialProject/Project/bin/Debug/net8.0/selenium-manager/windows/selenium-manager.exe
-/home/knoldus/Desktop/C#TrialProject/Project/bin/Debug/net8.0/C#TrialProject
 /home/knoldus/Desktop/C#TrialProject/Project/bin/Debug/net8.0/C#TrialProject.deps.json
 /home/knoldus/Desktop/C#TrialProject/Project/bin/Debug/net8.0/C#TrialProject.runtimeconfig.json
 /home/knoldus/Desktop/C#TrialProject/Project/bin/Debug/net8.0/C#TrialProject.dll
@@ -25,3 +24,4 @@
 /home/knoldus/Desktop/C#TrialProject/Project/obj/Debug/net8.0/C#TrialProject.pdb
 /home/knoldus/Desktop/C#TrialProject/Project/obj/Debug/net8.0/C#TrialProject.genruntimeconfig.cache
 /home/knoldus/Desktop/C#TrialProject/Project/obj/Debug/net8.0/ref/C#TrialProject.dll
+/home/knoldus/Desktop/C#TrialProject/Project/bin/Debug/net8.0/C#TrialProject

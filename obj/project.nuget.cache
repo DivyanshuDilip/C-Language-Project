@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "2FKarp40to8=",
+  "dgSpecHash": "4GNCW+sPfO4=",
   "success": true,
   "projectFilePath": "/home/knoldus/Desktop/C#TrialProject/Project/C#TrialProject.csproj",
   "expectedPackageFiles": [
     "/home/knoldus/.nuget/packages/selenium.webdriver/4.30.0/selenium.webdriver.4.30.0.nupkg.sha512",
-    "/home/knoldus/.nuget/packages/selenium.webdriver.chromedriver/133.0.6943.5300/selenium.webdriver.chromedriver.133.0.6943.5300.nupkg.sha512"
+    "/home/knoldus/.nuget/packages/selenium.webdriver.chromedriver/133.0.6943.5300/selenium.webdriver.chromedriver.133.0.6943.5300.nupkg.sha512",
+    "/home/knoldus/.nuget/packages/microsoft.netcore.app.ref/8.0.14/microsoft.netcore.app.ref.8.0.14.nupkg.sha512",
+    "/home/knoldus/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.14/microsoft.aspnetcore.app.ref.8.0.14.nupkg.sha512",
+    "/home/knoldus/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.14/microsoft.netcore.app.host.linux-x64.8.0.14.nupkg.sha512"
   ],
   "logs": [
     {
